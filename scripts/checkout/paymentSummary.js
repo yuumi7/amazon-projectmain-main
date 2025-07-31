@@ -59,7 +59,7 @@ let shippingPriceCents = 0;
             </div>
           </div>
 
-          <button class="place-order-button button-primary">
+          <button class="place-order-button button-primary js-place-order">
             Place your order
           </button>
  `;
@@ -87,6 +87,6 @@ let shippingPriceCents = 0;
   console.log('Unexpected error.Try again later.');
   }
 
-  window.location.href = 'orders.html';
+  window.location.href = 'orders.html'
  });
 }
