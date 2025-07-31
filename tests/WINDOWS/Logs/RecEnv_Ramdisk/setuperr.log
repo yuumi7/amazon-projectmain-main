@@ -1,0 +1,6 @@
+﻿2025-04-16 22:44:03, Error                        Failed to check OS architecture. 0x00000490[gle=0x00000002]
+2025-04-16 22:44:03, Error                        WinReGetConfigEx failed. Error: 0x00000003[gle=0x00000003]
+2025-04-16 22:44:03, Error                        CRecoveryToolAction->Init() failed. Error: 0x00000003[gle=0x00000003]
+2025-04-16 22:44:03, Error                        WinReGetConfigEx failed. Error: 0x00000003[gle=0x00000003]
+2025-04-16 22:44:03, Error                        CRecoveryToolAction->Init() failed. Error: 0x00000003[gle=0x00000003]
+2025-04-16 22:44:03, Error                        Invalid path specified[gle=0x00000002]
